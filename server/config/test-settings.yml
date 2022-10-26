@@ -1,0 +1,4 @@
+database:
+  database: ohmybudget_test
+
+auth-dummy-login: true
